@@ -26,3 +26,11 @@
     - models: interface, class to abstract.
 
 
+### run project and fix sample code
+
+- `pnpm i`
+- `pnpm dev`
+
+### deploy with vercel
+
+- [https://vercel.com/dashboard](https://vercel.com/dashboard)
